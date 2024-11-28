@@ -11,13 +11,14 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'veterinaria macaques',
+    'Por que os macacos-prego descascam as árvores?',
+    'Para se alimentar da sua seiva. Embora os frutos e sementes nativas sejam o principal alimento do macaco-prego, no inverno e primavera (julho a novembro) a quantidade desses recursos na Floresta com Araucária, típica do Sul do Brasil, não é suficiente para a sua sobrevivência. Esse problema é crítico nas regiões em que essa floresta foi ou é explorada/suprimida, pois isso reduz a abundância de espécies que servem de alimento para o macaco-prego. Esses primatas, então, buscam alimentos alternativos. Assim, descascam as árvores de pínus e diversas outras espécies (p.ex. eucaliptos, cupressus, araucária, cuvitinga) e raspam o tecido (floema) exposto com os dentes e unhas, o que danifica o tronco e compromete o crescimento e, eventualmente, a sobrevivência das árvores atacadas. A seiva é apreciada por que, tal como os frutos, tem em sua composição uma grande quantidade de açúcares, além de outros nutrientes.
+'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'veterinaria jumentista',
+    'Quanto tempo leva para criar um porco para abate?',
+    ' porco de carne médio pesa 50 libras  (22 kg) tendo 7 semanas de idade e terá um peso de 230 libras (100 kg) tendo 20 semanas de idade. O peso de mercado difere de raça para raça, mas a maioria dos porcos são abatidos com 250 libras tendo 22-27 semanas de idade.'
 )
