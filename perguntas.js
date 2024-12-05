@@ -13,8 +13,8 @@ criaCartao(
 criaCartao(
     'veterinaria macaques',
     'Por que os macacos-prego descascam as árvores?',
-    'Para se alimentar da sua seiva. Embora os frutos e sementes nativas sejam o principal alimento do macaco-prego, no inverno e primavera (julho a novembro) a quantidade desses recursos na Floresta com Araucária, típica do Sul do Brasil, não é suficiente para a sua sobrevivência. Esse problema é crítico nas regiões em que essa floresta foi ou é explorada/suprimida, pois isso reduz a abundância de espécies que servem de alimento para o macaco-prego. Esses primatas, então, buscam alimentos alternativos. Assim, descascam as árvores de pínus e diversas outras espécies (p.ex. eucaliptos, cupressus, araucária, cuvitinga) e raspam o tecido (floema) exposto com os dentes e unhas, o que danifica o tronco e compromete o crescimento e, eventualmente, a sobrevivência das árvores atacadas. A seiva é apreciada por que, tal como os frutos, tem em sua composição uma grande quantidade de açúcares, além de outros nutrientes.
-'
+    'Para se alimentar da sua seiva. Embora os frutos e sementes nativas sejam o principal alimento do macaco-prego, no inverno e primavera (julho a novembro) a quantidade desses recursos na Floresta com Araucária, típica do Sul do Brasil, não é suficiente para a sua sobrevivência. Esse problema é crítico nas regiões em que essa floresta foi ou é explorada/suprimida, pois isso reduz a abundância de espécies que servem de alimento para o macaco-prego. Esses primatas, então, buscam alimentos alternativos. Assim, descascam as árvores de pínus e diversas outras espécies (p.ex. eucaliptos, cupressus, araucária, cuvitinga) e raspam o tecido (floema) exposto com os dentes e unhas, o que danifica o tronco e compromete o crescimento e, eventualmente, a sobrevivência das árvores atacadas. A seiva é apreciada por que, tal como os frutos, tem em sua composição uma grande quantidade de açúcares, além de outros nutrientes.'
+
 )
 
 criaCartao(
